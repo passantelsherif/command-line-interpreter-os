@@ -1,4 +1,4 @@
-# Command Line Interpreter (CLI) - Operating Systems Assignment
+# Command Line Interpreter (CLI) - Operating Systems 
 
 A Java-based command line interpreter implementing core shell commands with comprehensive file system operations. This project was developed for the Cairo University CS241 (Operating Systems 1).
 
